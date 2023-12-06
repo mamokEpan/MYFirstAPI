@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "jsonwebtoken": "^9.0.2"
+    "jsonwebtoken": "^9.0.2",
+    "openapi-validator-middleware": "^3.2.6",
+    "swagger-ui-express": "^5.0.0"
   }
 }
